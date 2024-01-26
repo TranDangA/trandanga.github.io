@@ -77,10 +77,10 @@ const $typedTextOutput = document.querySelector(".typed-text-output");
 
 if ($typedTextOutput) {
   const textList = [
-    "Web Developer",
-    "Frontend Developer",
-    "Backend Developer",
-    "Fullstack Developer",
+    "Special but not special",
+    "We always smile",
+    "We are one",
+    "Work hard – Play hard",
   ];
 
   const typeWriter = (text) => {
